@@ -1,2 +1,3 @@
-# processing
-Data processing framework developed specifically for computer vision purposes
+# Processing
+A data processing framework developed specifically for computer vision purposes.
+
